@@ -1,0 +1,6 @@
+[
+    {"id":1,"name":"Bistrot des Gascons","address":"26 Avenue de Tourville, 75007 Paris","date":"2023-10-22T09:00:00Z","owner":"tig"},
+    {"id":2,"name":"Café des Phares","address":"7 Place de la Bastille, 75004 Paris","date":"2023-10-23T09:00:00Z","owner":"tig"},
+    {"id":3,"name":"Le Vert Tulipe","address":"2 Rue de Londres, 75009 Paris","date":"2023-10-24T09:00:00Z","owner":"tig"},
+    {"id":4,"name":"Ruche qui dit Oui","address":"42 rue Saint Hilaire 94210 La Varenne","date":"2023-10-24T10:30:09Z","owner":"tig"}
+]
